@@ -1,0 +1,75 @@
+{
+   "buttons": {
+      "view-prod": "View Product",
+      "view-more": "View more",
+      "onSale": "On sale",
+      "filters": "Filters",
+      "back": "To products",
+      "addToCart": "Add to cart",
+      "description": "Description",
+      "aditionalInformation": "Aditional information",
+      "viewCart": "view cart"
+   },
+   "header": {
+      "shop": "Shop",
+      "blog": "Blog",
+      "story": "Our Story"
+   },
+   "filter": {
+      "color": "Color",
+      "material": "Material"
+   },
+   "placeholders": {
+      "search": "Search..."
+   },
+   "cart": {
+      "title": "Shopping bag",
+      "titleTwo": "Shopping Cart",
+      "cartTotals": "Cart totals",
+      "shipping": "calculate shipping",
+      "checkout": "Proceed to checkout",
+      "emptyCart": "Cart is empty , add product to cart"
+   },
+   "login": {
+      "title": "My acount",
+      "signIn": "Sign in",
+      "register": "Register",
+      "difPasswords": "Passwords must be thse same",
+      "acountExistError": "acount wasn't found",
+      "resetPass": "Reset password"
+   },
+
+   "checkout": {
+      "title": "Checkout",
+      "country": "Country",
+      "city": "City",
+      "town": "Town",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "street": "Street Adress",
+      "phone": "Phone",
+      "email": "Email",
+      "billingDetails": "Billing Details",
+      "order": "Your Order",
+      "product": "Product",
+      "total": "Total",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "freeShipping": "Free shipping",
+      "palceOrder": "Place order"
+   },
+   "order": {
+      "titles": {
+         "orderDetails": "Order Details",
+         "orderSummary": "Order Summary"
+      },
+      "subtitles": {
+         "orderNumber": "Order number",
+         "orderEmail": "Email",
+         "orderDate": "Order date",
+
+         "orderAdress": "Delivery adress",
+         "orderContactNumber": "Contact Number"
+      }
+   }
+}

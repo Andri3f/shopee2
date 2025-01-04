@@ -1,0 +1,74 @@
+{
+   "buttons": {
+      "view-prod": "Показати продукт",
+      "view-more": "Показати більше",
+      "onSale": "зі знижкою",
+      "filters": "Фільтри",
+      "back": "До продуктів",
+      "addToCart": "Add to cart",
+      "description": "Опис",
+      "aditionalInformation": "Додаткова Інформація",
+      "viewCart": "показати корзину"
+   },
+   "header": {
+      "shop": "Магазин",
+      "blog": "Блог",
+      "story": "Наша історія"
+   },
+   "filter": {
+      "color": "Колір",
+      "material": "Матеріал"
+   },
+   "placeholders": {
+      "search": "Пошук..."
+   },
+   "cart": {
+      "title": "Корзина",
+      "titleTwo": "Корзина для покупок",
+      "cartTotals": "Сума кошика",
+      "shipping": "підрохувати доставку",
+      "checkout": "Перейти до оформлення",
+      "emptyCart": "Корзина порожня , додайте щось у корзину"
+   },
+   "login": {
+      "title": "Мій акаунт",
+      "signIn": "Увійти",
+      "register": "Зареєструватись",
+      "difPasswords": "Паролі мусять бути однаковими",
+      "acountExistError": "Такого акаунту не знайдено",
+      "resetPass": "Скинути пароль"
+   },
+
+   "checkout": {
+      "title": "Оформлення",
+      "country": "Країна",
+      "city": "Місто",
+      "town": "Мітечко",
+      "firstName": "Ім'я",
+      "lastName": "Прізвище",
+      "street": "Адресса вулиці",
+      "phone": "Телефон",
+      "email": "емейл",
+      "billingDetails": "Платіжні реквізити",
+      "order": "Ваш Вибір",
+      "product": "Продукт",
+      "total": "Сума",
+      "subtotal": "Проміжна сума",
+      "shipping": "Доставка",
+      "freeShipping": "Бесплатна доставка",
+      "palceOrder": "Розмістити замовлення"
+   },
+   "order": {
+      "titles": {
+         "orderDetails": "Деталі  Замолення",
+         "orderSummary": "Підсмумок Замовення"
+      },
+      "subtitles": {
+         "orderNumber": "Номер замовлення",
+         "orderEmail": "Емейл",
+         "orderDate": "Дата замовлення",
+         "orderAdress": "Адреса доставки",
+         "orderContactNumber": "Номер телефону"
+      }
+   }
+}
